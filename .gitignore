@@ -1,0 +1,4 @@
+data/
+# Ensure your data files are excluded from tracking
+echo "data/" >> .gitignore
+echo ".ipynb_checkpoints/" >> .gitignore
